@@ -10,7 +10,7 @@ He trabajado en aplicaciones web aplicando Scrum y Kanban, usando herramientas c
 
 ---
 
-## 🚀 Perfil profesional
+##  Perfil profesional
 
 **QA Engineer | QA Functional Analyst | Software Test Analyst | Manual Tester | Web Testing**
 
@@ -18,7 +18,7 @@ Scrum | Kanban | Jira | TestRail | Postman | Git | GitHub | SQL | Python | AWS |
 
 ---
 
-## 🧪 Experiencia y enfoque QA
+## Experiencia y enfoque QA
 
 * Diseño y ejecución de casos de prueba funcionales para aplicaciones web.
 * Pruebas de regresión, pruebas exploratorias y validación de criterios de aceptación.
@@ -31,7 +31,7 @@ Scrum | Kanban | Jira | TestRail | Postman | Git | GitHub | SQL | Python | AWS |
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <p align="left">
   <img src="https://img.shields.io/badge/QA%20Testing-2E86C1?style=for-the-badge&logo=testinglibrary&logoColor=white" />
@@ -59,7 +59,7 @@ Scrum | Kanban | Jira | TestRail | Postman | Git | GitHub | SQL | Python | AWS |
 
 ---
 
-## 📌 Logros destacados
+## Logros destacados
 
 * Reducción aproximada del **30% en defectos detectados en producción**.
 * Estandarización de **más de 150 casos de prueba reutilizables** en TestRail.
@@ -69,20 +69,20 @@ Scrum | Kanban | Jira | TestRail | Postman | Git | GitHub | SQL | Python | AWS |
 
 ---
 
-## 📚 Formación
+## Formación
 
-🎓 **Ingeniero de Sistemas**
+ **Ingeniero de Sistemas**
 Universidad Nacional Abierta y a Distancia — UNAD
 
-☁️ **Analista Cloud**
+ **Analista Cloud**
 AWS | Azure Fundamentals | Linux | EC2 | S3 | RDS | VPC | IAM | Lambda | Docker | ECS | EKS | CI/CD | CloudFormation | CDK | Terraform
 
-🐧 **Administración de sistemas operativos open source**
+ **Administración de sistemas operativos open source**
 GNU/Linux | Seguridad | Endian | UNAD
 
 ---
 
-## 🌱 Actualmente fortaleciendo
+## Actualmente fortaleciendo
 
 * Automatización de pruebas.
 * Buenas prácticas de QA en pipelines CI/CD.
@@ -92,7 +92,7 @@ GNU/Linux | Seguridad | Endian | UNAD
 
 ---
 
-## 🤝 Hablemos
+## Hablemos
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chayanne-alfonso-sanchez-garcia" target="_blank">
